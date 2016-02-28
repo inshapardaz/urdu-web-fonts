@@ -1,0 +1,29 @@
+{
+  "name": "urdu-web-fonts",
+  "version" : "1.0.0",
+  "homepage": "https://github.com/umerfaruk/urdu-web-fonts",
+  "authors": [
+    "Muhammad Umer Farooq <omar.faruk@outlook.com>"
+  ],
+  "description": "Urdu web fonts",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "urdu",
+    "webfont"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
