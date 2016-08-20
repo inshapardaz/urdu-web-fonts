@@ -1,0 +1,19 @@
+{
+  "name": "urdu-web-fonts",
+  "version": "1.0.0",
+  "description": "Urdu Web Fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umerfaruk/urdu-web-fonts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umerfaruk/urdu-web-fonts/issues"
+  },
+  "homepage": "https://github.com/umerfaruk/urdu-web-fonts#readme"
+}
