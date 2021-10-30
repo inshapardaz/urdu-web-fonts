@@ -1,20 +1,29 @@
-/*.woff
-    Access-Control-Allow-Origin: *
-    Content-Type: font/woff
-    
-/*.woff2
-    Access-Control-Allow-Origin: *
-    Content-Type: font/woff2
+[[headers]]
+for = "/*.woff"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "font/woff"
 
-    
-/*.eot
-	Access-Control-Allow-Origin: *
-	Content-Type: application/vnd.ms-fontobject
+[[headers]]
+for = "/*.woff2"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "font/woff2"
 
-/*.ttf
-	Access-Control-Allow-Origin: *
-	Content-Type: font/ttf
-	
-/*.svg
-	Access-Control-Allow-Origin: *
-	Content-Type: image/svg+xml
+[[headers]]
+for = "/*.eot"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "application/vnd.ms-fontobject"
+
+[[headers]]
+for = "/*.ttf"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "font/ttf"
+
+[[headers]]
+for = "/*.svg"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Content-Type = "image/svg+xml"
