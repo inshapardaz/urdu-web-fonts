@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'JameelNooriNastaleeqKasheeda';
+    src: url('./JameelNooriNastaleeqKasheeda.eot');
+    src: url('./JameelNooriNastaleeqKasheeda.eot?#iefix') format('embedded-opentype'),
+        url('./JameelNooriNastaleeqKasheeda.woff2') format('woff2'),
+        url('./JameelNooriNastaleeqKasheeda.woff') format('woff'),
+        url('./JameelNooriNastaleeqKasheeda.ttf') format('truetype'),
+        url('./JameelNooriNastaleeqKasheeda.svg#JameelNooriNastaleeqKasheeda') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+

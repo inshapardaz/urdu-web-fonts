@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'AlviLahoriNastaleeq';
+    src: url('./AlviLahoriNastaleeq.eot');
+    src: url('./AlviLahoriNastaleeq.eot?#iefix') format('embedded-opentype'),
+        url('./AlviLahoriNastaleeq.woff2') format('woff2'),
+        url('./AlviLahoriNastaleeq.woff') format('woff'),
+        url('./AlviLahoriNastaleeq.ttf') format('truetype'),
+        url('./AlviLahoriNastaleeq.svg#AlviLahoriNastaleeq') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+

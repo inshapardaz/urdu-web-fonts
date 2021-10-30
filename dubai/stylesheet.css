@@ -1,0 +1,9 @@
+﻿@font-face {
+  font-family: 'Dubai';
+  src: url("./dubai.eot");
+  src: url("./dubai.eot") format("embedded-opentype"), 
+       url("./dubai.woff") format("woff"), 
+       url("./dubai.ttf") format("truetype"), 
+       url("./dubai.svg") format("svg");
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}

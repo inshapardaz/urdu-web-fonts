@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'JameelNooriNastaleeq';
+    src: url('./JameelNooriNastaleeq.eot');
+    src: url('./JameelNooriNastaleeq.eot?#iefix') format('embedded-opentype'),
+        url('./JameelNooriNastaleeq.woff2') format('woff2'),
+        url('./JameelNooriNastaleeq.woff') format('woff'),
+        url('./JameelNooriNastaleeq.ttf') format('truetype'),
+        url('./JameelNooriNastaleeq.svg#JameelNooriNastaleeq') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
