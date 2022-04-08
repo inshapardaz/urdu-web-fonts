@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Aref Ruqaa';
+    src: url('ArefRuqaa-Bold.eot');
+    src: url('ArefRuqaa-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ArefRuqaa-Bold.woff2') format('woff2'),
+        url('ArefRuqaa-Bold.woff') format('woff'),
+        url('ArefRuqaa-Bold.ttf') format('truetype'),
+        url('ArefRuqaa-Bold.svg#ArefRuqaa-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aref Ruqaa';
+    src: url('ArefRuqaa-Regular.eot');
+    src: url('ArefRuqaa-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ArefRuqaa-Regular.woff2') format('woff2'),
+        url('ArefRuqaa-Regular.woff') format('woff'),
+        url('ArefRuqaa-Regular.ttf') format('truetype'),
+        url('ArefRuqaa-Regular.svg#ArefRuqaa-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
