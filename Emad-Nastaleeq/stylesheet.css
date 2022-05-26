@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'EmadNastaleeq';
+    src: url('./emad-nastaleeq.eot');
+    src: url('./emad-nastaleeq.eot?#iefix') format('embedded-opentype'),
+        url('./emad-nastaleeq.woff2') format('woff2'),
+        url('./emad-nastaleeq.woff') format('woff'),
+        url('./emad-nastaleeq.ttf') format('truetype'),
+        url('./emad-nastaleeq.svg#emad-nastaleeq') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
