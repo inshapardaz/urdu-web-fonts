@@ -9,12 +9,8 @@ Urdu fonts converted into web fonts. If you are authoring a web page that requir
 
 _All fonts have copyrights reserved to their respective copyright owner_
 
-## Installing package
- ```
- bower install urdu-web-fonts 
- ```
- 
-## References
- All fonts have separate stylesheets. Just reference these stylesheets in your page and use the font name to apply the font.
+## Usage
+
+ All fonts have separate stylesheets. Just reference these stylesheets in your page and use the font name to apply the font. For details visit  https@//urdu-fonts.netlify.app
  
  
