@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sameer-khashab';
+    src: url('SameerKhashab-Bold.eot');
+    src: url('SameerKhashab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SameerKhashab-Bold.woff2') format('woff2'),
+        url('SameerKhashab-Bold.woff') format('woff'),
+        url('SameerKhashab-Bold.svg#AASameerKhashab-Bold-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

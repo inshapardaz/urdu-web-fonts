@@ -8,4 +8,12 @@ _All fonts have copyrights reserved to their respective copyright owner. If you 
 
  All fonts have separate stylesheets. Just reference these stylesheets in your page and use the font name to apply the font. For details visit  https://urdu-fonts.netlify.app
  
+
+## Adding new fonts
+
+- Convert ttf font to `eot`, `svg`, `woff` and `woff2` using https://transfonter.org/
+- Create a folder on root for the new font
+- Copy the font files in folder
+- Create `stylesheet.css` and `demo.html` files 
+- Add link to `index.html`
  
