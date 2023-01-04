@@ -6,8 +6,11 @@ _All fonts have copyrights reserved to their respective copyright owner. If you 
 
 ## Usage
 
- All fonts have separate stylesheets. Just reference these stylesheets in your page and use the font name to apply the font. For details visit  https://urdu-fonts.netlify.app
+All fonts have separate stylesheets. For individul fonts you can reference repective stylesheets in your page and use the font name to apply the font. For details visit  https://urdu-fonts.netlify.app
  
+If you want to reference all fonts you just need to add link to [css file](https://urdu-fonts.netlify.app/stylesheet.css) in your website. Individual files will be downloaded when rendered.
+
+For referencing stylesheets in your page see [this guide](https://www.w3schools.com/tags/tag_link.asp).
 
 ## Adding new fonts
 
