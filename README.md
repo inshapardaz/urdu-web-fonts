@@ -6,7 +6,7 @@ _All fonts have copyrights reserved to their respective copyright owner. If you 
 
 ## Usage
 
-All fonts have separate stylesheets. For individul fonts you can reference repective stylesheets in your page and use the font name to apply the font. For details visit  https://urdu-fonts.netlify.app
+All fonts have separate stylesheets. For individul fonts you can reference repective stylesheets in your page and use the font name to apply the font. For details visit https://fonts.nawishta.co.uk
  
 If you want to reference all fonts you just need to add link to [css file](http://fonts.nawishta.co.uk/stylesheet.css) in your website. Individual files will be downloaded when rendered.
 
