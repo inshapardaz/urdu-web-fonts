@@ -1,0 +1,25 @@
+name: Package
+
+on:
+  push:
+    branches: [ "main" ]
+    paths-ignore:
+      - '**/*.md'
+      - '.gitignore'
+      - '.editorconfig'
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ${{ secrets.DEPLOY_FTP_SERVER }}
+          username: ${{ secrets.DEPLOY_FTP_USERNAME }}
+          password: ${{ secrets.DEPLOY_FTP_PASSWORD }}
+          server-dir: /fonts/
+
