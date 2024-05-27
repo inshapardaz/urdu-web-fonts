@@ -1,0 +1,9 @@
+﻿@font-face {
+  font-family: 'NafeesWebNaskh';
+  src: url("./Nafees-Web-Naskh.eot");
+  src: url("./Nafees-Web-Naskh.eot") format("embedded-opentype"), 
+       url("./Nafees-Web-Naskh.woff") format("woff"), 
+       url("./Nafees-Web-Naskh.ttf") format("truetype"), 
+       url("./Nafees-Web-Naskh.svg") format("svg");
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF; 
+}

@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('ReemKufi-Bold.eot');
+    src: url('ReemKufi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ReemKufi-Bold.woff2') format('woff2'),
+        url('ReemKufi-Bold.woff') format('woff'),
+        url('ReemKufi-Bold.ttf') format('truetype'),
+        url('ReemKufi-Bold.svg#ReemKufi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('ReemKufi-Regular.eot');
+    src: url('ReemKufi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ReemKufi-Regular.woff2') format('woff2'),
+        url('ReemKufi-Regular.woff') format('woff'),
+        url('ReemKufi-Regular.ttf') format('truetype'),
+        url('ReemKufi-Regular.svg#ReemKufi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('ReemKufi-Medium.eot');
+    src: url('ReemKufi-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ReemKufi-Medium.woff2') format('woff2'),
+        url('ReemKufi-Medium.woff') format('woff'),
+        url('ReemKufi-Medium.ttf') format('truetype'),
+        url('ReemKufi-Medium.svg#ReemKufi-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('ReemKufi-SemiBold.eot');
+    src: url('ReemKufi-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('ReemKufi-SemiBold.woff2') format('woff2'),
+        url('ReemKufi-SemiBold.woff') format('woff'),
+        url('ReemKufi-SemiBold.ttf') format('truetype'),
+        url('ReemKufi-SemiBold.svg#ReemKufi-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

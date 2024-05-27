@@ -1,9 +1,0 @@
-﻿@font-face {
-  font-family: 'MehrNastaleeq';
-  src: url("./Mehr-Nastaliq-Web.eot");
-  src: url("./Mehr-Nastaliq-Web.eot") format("embedded-opentype"), 
-       url("./Mehr-Nastaliq-Web.woff") format("woff"), 
-       url("./Mehr-Nastaliq-Web.ttf") format("truetype"), 
-       url("./Mehr-Nastaliq-Web.svg") format("svg");
-       unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
-}
