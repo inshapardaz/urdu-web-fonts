@@ -42,3 +42,19 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
+  deploy:
+    name: Deploy to production
+    needs: push_to_registry
+    if: github.event_name == 'push'
+    runs-on: [self-hosted, production]
+    environment: production
+    steps:
+      - name: Pull latest environment config
+        run: git -C ~/code/environment pull --ff-only
+
+      - name: Pull and restart fonts
+        run: |
+          cd ~/code/environment/production
+          docker compose pull fonts
+          docker compose up -d fonts
