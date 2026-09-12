@@ -1,6 +1,12 @@
 # urdu-web-fonts
 Urdu fonts converted into web fonts. If you are authoring a web page that require urdu fonts to be displayed, you can benefit from the web fonts. These fonts are downloaded as part of page resources onto the client and no custom installation of font is required by client.
 
+## Build & Deploy Status
+
+[![Docker Image CI](https://github.com/inshapardaz/urdu-web-fonts/actions/workflows/docker-image.yml/badge.svg)](https://github.com/inshapardaz/urdu-web-fonts/actions/workflows/docker-image.yml)
+
+Build, image push, and production deploy (gated behind manual approval) all run as part of this workflow.
+
 ## Copyrights
 _All fonts have copyrights reserved to their respective copyright owner. If you are owner of any font used by this cdn and not happy for us to use your font, please raise an issue._
 
